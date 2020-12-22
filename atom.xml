@@ -6,7 +6,7 @@
   <link href="https://ly0205.github.io/atom.xml" rel="self"/>
   
   <link href="https://ly0205.github.io/"/>
-  <updated>2020-12-22T06:32:09.083Z</updated>
+  <updated>2020-12-22T07:34:35.258Z</updated>
   <id>https://ly0205.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://ly0205.github.io/2020/ckizob1v00000hkjec5e6du9b/"/>
+    <id>https://ly0205.github.io/2020/ckizob1v00000hkjec5e6du9b/</id>
+    <published>2020-12-22T07:33:13.000Z</published>
+    <updated>2020-12-22T07:34:35.258Z</updated>
+    
+    <content type="html"><![CDATA[<p>​    </p><p>插入图片<img src="https://raw.githubusercontent.com/ly0205/pic1/main/IMG_3343.jpg" alt="wode"></p><p>haha</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;​    &lt;/p&gt;
+&lt;p&gt;插入图片&lt;img src=&quot;https://raw.githubusercontent.com/ly0205/pic1/main/IMG_3343.jpg&quot; alt=&quot;wode&quot;&gt;&lt;/p&gt;
+&lt;p&gt;haha&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>第一篇博客</title>
